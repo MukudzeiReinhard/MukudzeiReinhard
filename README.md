@@ -16,7 +16,7 @@ I focus on the intersection of **business logic, database architecture, and proc
 ---
 
 ### 📌 Featured Work
-* **[Intelligent Job Recommendation System](#):** A candidate-matching engine built with Django, SQLite, and the Google Gemini API using Manhattan/Weighted Euclidean similarity algorithms to evaluate psychometric profiles[span_15](start_span)[span_15](end_span).
+* **[Intelligent Job Recommendation System](#):** A candidate-matching engine built with Django, SQLite, and the Google Gemini API using Manhattan/Weighted Euclidean similarity algorithms to evaluate psychometric profiles.
 * **[Statutory Compliance & Payroll Audit Engine](#):** Python & SQL scripts designed to automate monthly medical aid/pension filings and detect payroll data anomalies prior to execution.
 
 ---
